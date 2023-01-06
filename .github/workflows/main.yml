@@ -26,4 +26,4 @@ jobs:
            
 
       - name: 'checkin'
-        run: chmod 777 ./qd &&./qd
+        run: chmod 777 ./qd && ./qd
